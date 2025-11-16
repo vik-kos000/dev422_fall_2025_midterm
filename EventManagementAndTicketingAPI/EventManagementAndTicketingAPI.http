@@ -1,0 +1,6 @@
+@EventManagementAndTicketingAPI_HostAddress = http://localhost:5250
+
+GET {{EventManagementAndTicketingAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
