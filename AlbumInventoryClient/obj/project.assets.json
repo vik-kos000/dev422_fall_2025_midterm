@@ -1453,17 +1453,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Viktoriya\\.nuget\\packages\\": {},
+    "C:\\Users\\jenny\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viktoriya\\Desktop\\New folder\\AlbumInventoryClient\\AlbumInventoryClient.csproj",
+      "projectUniqueName": "C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\AlbumInventoryClient\\AlbumInventoryClient.csproj",
       "projectName": "AlbumInventoryClient",
-      "projectPath": "C:\\Users\\Viktoriya\\Desktop\\New folder\\AlbumInventoryClient\\AlbumInventoryClient.csproj",
-      "packagesPath": "C:\\Users\\Viktoriya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Viktoriya\\Desktop\\New folder\\AlbumInventoryClient\\obj\\",
+      "projectPath": "C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\AlbumInventoryClient\\AlbumInventoryClient.csproj",
+      "packagesPath": "C:\\Users\\jenny\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\AlbumInventoryClient\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "UsingMicrosoftNETSdk": false,
@@ -1471,7 +1471,7 @@
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Viktoriya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jenny\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

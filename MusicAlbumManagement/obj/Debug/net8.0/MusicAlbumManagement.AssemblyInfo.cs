@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MusicAlbumManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7b468d9f05e4db552f30cb07cde6314d35892ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("MusicAlbumManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MusicAlbumManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

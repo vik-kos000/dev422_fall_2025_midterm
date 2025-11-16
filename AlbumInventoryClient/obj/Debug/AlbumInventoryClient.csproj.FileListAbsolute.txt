@@ -82,3 +82,31 @@ C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\Al
 C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryClient\obj\Debug\AlbumInv.CA33268F.Up2Date
 C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryClient\obj\Debug\AlbumInventoryClient.exe
 C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryClient\obj\Debug\AlbumInventoryClient.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\AlbumInventoryClient.exe.config
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\AlbumInventoryClient.exe
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\AlbumInventoryClient.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\Google.Protobuf.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\Google.Protobuf.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\Grpc.Core.Api.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\Grpc.Net.Client.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\Grpc.Net.Client.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\Grpc.Net.Common.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\Grpc.Net.Common.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\System.Buffers.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\System.Memory.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\obj\Debug\AlbumInventoryClient.csproj.AssemblyReference.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\obj\Debug\AlbumInventoryClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\obj\Debug\AlbumInventoryClient.exe.config
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\obj\Debug\AlbumInventoryClient.MainForm.resources
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\obj\Debug\AlbumInventoryClient.Properties.Resources.resources
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\obj\Debug\AlbumInventoryClient.csproj.GenerateResource.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\obj\Debug\AlbumInventoryClient.csproj.CoreCompileInputs.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\obj\Debug\AlbumInv.CA33268F.Up2Date
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\obj\Debug\AlbumInventoryClient.exe
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\AlbumInventoryClient\obj\Debug\AlbumInventoryClient.pdb

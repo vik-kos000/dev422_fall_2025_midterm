@@ -1159,23 +1159,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Viktoriya\\.nuget\\packages\\": {},
+    "C:\\Users\\jenny\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viktoriya\\Desktop\\New folder\\CollabPlaylistAPI\\CollabPlaylistAPI.csproj",
+      "projectUniqueName": "C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\CollabPlaylistAPI\\CollabPlaylistAPI.csproj",
       "projectName": "CollabPlaylistAPI",
-      "projectPath": "C:\\Users\\Viktoriya\\Desktop\\New folder\\CollabPlaylistAPI\\CollabPlaylistAPI.csproj",
-      "packagesPath": "C:\\Users\\Viktoriya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Viktoriya\\Desktop\\New folder\\CollabPlaylistAPI\\obj\\",
+      "projectPath": "C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\CollabPlaylistAPI\\CollabPlaylistAPI.csproj",
+      "packagesPath": "C:\\Users\\jenny\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\CollabPlaylistAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Viktoriya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jenny\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1184,6 +1184,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1202,7 +1203,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -1236,7 +1237,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

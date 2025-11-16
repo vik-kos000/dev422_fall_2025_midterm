@@ -1,142 +1,42 @@
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\bin\Debug\CollabPlaylist.exe.config
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\bin\Debug\CollabPlaylist.exe
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\bin\Debug\CollabPlaylist.pdb
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.AssemblyReference.cache
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Form1.resources
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Properties.Resources.resources
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.GenerateResource.cache
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.CoreCompileInputs.cache
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.exe
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.pdb
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\bin\Debug\Newtonsoft.Json.dll
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\bin\Debug\Newtonsoft.Json.xml
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.AddSong.resources
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.CreatePlaylist.resources
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.InviteCollaborator.resources
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Rankings.resources
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Voting.resources
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.CopyComplete
-C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Form2_PlaylistBuilder.resources
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\CollabPlaylist.exe.config
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\CollabPlaylist.exe
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\CollabPlaylist.pdb
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Newtonsoft.Json.dll
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Google.Protobuf.dll
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Core.Api.dll
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Net.Client.dll
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Memory.dll
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Net.Common.dll
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Net.Http.WinHttpHandler.dll
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Buffers.dll
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Newtonsoft.Json.xml
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Google.Protobuf.pdb
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Core.Api.pdb
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Net.Client.pdb
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Net.Common.pdb
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.AssemblyReference.cache
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.SuggestedBindingRedirects.cache
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.exe.config
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.AddSong.resources
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.CreatePlaylist.resources
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Form1.resources
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Form2_PlaylistBuilder.resources
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.InviteCollaborator.resources
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Properties.Resources.resources
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Rankings.resources
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Voting.resources
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.GenerateResource.cache
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.CoreCompileInputs.cache
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPl.90EF9A87.Up2Date
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.exe
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.pdb
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\AlbumInventoryClient.exe
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\AlbumInventoryClient.pdb
-C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\AlbumInventoryClient.exe.config
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\CollabPlaylist.exe.config
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\CollabPlaylist.exe
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\CollabPlaylist.pdb
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\AlbumInventoryClient.exe
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\MusicRentalGUI.exe
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Google.Protobuf.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Core.Api.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Net.Client.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Memory.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Net.Common.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Net.Http.WinHttpHandler.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Buffers.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\MusicRentalGUI.pdb
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\MusicRentalGUI.exe.config
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\AlbumInventoryClient.pdb
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\AlbumInventoryClient.exe.config
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Google.Protobuf.pdb
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Core.Api.pdb
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Net.Client.pdb
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Net.Common.pdb
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.AssemblyReference.cache
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.SuggestedBindingRedirects.cache
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.exe.config
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.AddSong.resources
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.CreatePlaylist.resources
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Form1.resources
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Form2_PlaylistBuilder.resources
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.InviteCollaborator.resources
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Properties.Resources.resources
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Rankings.resources
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Voting.resources
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.GenerateResource.cache
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.CoreCompileInputs.cache
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPl.90EF9A87.Up2Date
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.exe
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.pdb
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\CollabPlaylist.exe.config
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\CollabPlaylist.exe
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\CollabPlaylist.pdb
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\AlbumInventoryClient.exe
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\MusicRentalGUI.exe
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Google.Protobuf.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Core.Api.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Net.Client.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Memory.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Net.Common.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Net.Http.WinHttpHandler.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Buffers.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\AlbumInventoryClient.pdb
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\AlbumInventoryClient.exe.config
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\MusicRentalGUI.pdb
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\MusicRentalGUI.exe.config
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Google.Protobuf.pdb
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Core.Api.pdb
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Net.Client.pdb
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\bin\Debug\Grpc.Net.Common.pdb
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.AssemblyReference.cache
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.SuggestedBindingRedirects.cache
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.exe.config
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.AddSong.resources
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.CreatePlaylist.resources
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Form1.resources
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Form2_PlaylistBuilder.resources
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.InviteCollaborator.resources
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Properties.Resources.resources
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Rankings.resources
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.Voting.resources
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.GenerateResource.cache
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.CoreCompileInputs.cache
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPl.90EF9A87.Up2Date
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.exe
-C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylist\obj\Debug\CollabPlaylist.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\CollabPlaylist.exe.config
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\CollabPlaylist.exe
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\CollabPlaylist.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\AlbumInventoryClient.exe
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\MusicRentalGUI.exe
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\Google.Protobuf.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\Grpc.Core.Api.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\Grpc.Net.Client.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\System.Memory.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\Grpc.Net.Common.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\System.Buffers.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\AlbumInventoryClient.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\AlbumInventoryClient.exe.config
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\MusicRentalGUI.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\MusicRentalGUI.exe.config
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\Google.Protobuf.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\Grpc.Net.Client.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\bin\Debug\Grpc.Net.Common.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.AssemblyReference.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.SuggestedBindingRedirects.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\obj\Debug\CollabPlaylist.exe.config
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\obj\Debug\CollabPlaylist.AddSong.resources
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\obj\Debug\CollabPlaylist.CreatePlaylist.resources
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\obj\Debug\CollabPlaylist.Form1.resources
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\obj\Debug\CollabPlaylist.Form2_PlaylistBuilder.resources
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\obj\Debug\CollabPlaylist.InviteCollaborator.resources
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\obj\Debug\CollabPlaylist.Properties.Resources.resources
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\obj\Debug\CollabPlaylist.Rankings.resources
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\obj\Debug\CollabPlaylist.Voting.resources
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.GenerateResource.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\obj\Debug\CollabPlaylist.csproj.CoreCompileInputs.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\obj\Debug\CollabPl.90EF9A87.Up2Date
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\obj\Debug\CollabPlaylist.exe
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\CollabPlaylist\obj\Debug\CollabPlaylist.pdb

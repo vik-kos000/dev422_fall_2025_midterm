@@ -25,3 +25,16 @@ C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\Mu
 C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicRentalGUI\obj\Debug\MusicRen.3EBE956B.Up2Date
 C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicRentalGUI\obj\Debug\MusicRentalGUI.exe
 C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicRentalGUI\obj\Debug\MusicRentalGUI.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\MusicRentalGUI\bin\Debug\MusicRentalGUI.exe.config
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\MusicRentalGUI\bin\Debug\MusicRentalGUI.exe
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\MusicRentalGUI\bin\Debug\MusicRentalGUI.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\MusicRentalGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\MusicRentalGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\MusicRentalGUI\obj\Debug\MusicRentalGUI.csproj.AssemblyReference.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\MusicRentalGUI\obj\Debug\MusicRentalGUI.RentalForm.resources
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\MusicRentalGUI\obj\Debug\MusicRentalGUI.Properties.Resources.resources
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\MusicRentalGUI\obj\Debug\MusicRentalGUI.csproj.GenerateResource.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\MusicRentalGUI\obj\Debug\MusicRentalGUI.csproj.CoreCompileInputs.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\MusicRentalGUI\obj\Debug\MusicRen.3EBE956B.Up2Date
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\MusicRentalGUI\obj\Debug\MusicRentalGUI.exe
+C:\Users\jenny\OneDrive\Desktop\Dev 422\DiepMidterm\dev422_fall_2025_midterm\MusicRentalGUI\obj\Debug\MusicRentalGUI.pdb

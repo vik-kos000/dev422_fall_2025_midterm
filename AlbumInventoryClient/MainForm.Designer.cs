@@ -71,6 +71,7 @@ namespace AlbumInventoryClient
             this.btnAdd.TabIndex = 1;
             this.btnAdd.Text = "Add";
             this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += btnAdd_Click;
             // 
             // btnUpdate
             // 
@@ -81,6 +82,7 @@ namespace AlbumInventoryClient
             this.btnUpdate.TabIndex = 1;
             this.btnUpdate.Text = "Update";
             this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += btnUpdate_Click;
             // 
             // btn_Delete
             // 
@@ -91,6 +93,7 @@ namespace AlbumInventoryClient
             this.btn_Delete.TabIndex = 1;
             this.btn_Delete.Text = "Delete";
             this.btn_Delete.UseVisualStyleBackColor = true;
+            this.btn_Delete.Click += btn_Delete_Click;
             // 
             // btn_Refresh
             // 
@@ -101,6 +104,7 @@ namespace AlbumInventoryClient
             this.btn_Refresh.TabIndex = 1;
             this.btn_Refresh.Text = "Refresh";
             this.btn_Refresh.UseVisualStyleBackColor = true;
+            this.btn_Refresh.Click += btn_Refresh_Click;
             // 
             // lblId
             // 

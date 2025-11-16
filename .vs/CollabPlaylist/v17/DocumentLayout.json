@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Viktoriya\\Desktop\\New folder\\",
+  "WorkspaceRootPath": "C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78D2AC3F-99E0-43DF-BBBA-8DC997151F0A}|CollabPlaylist\\CollabPlaylist.csproj|c:\\users\\viktoriya\\desktop\\new folder\\collabplaylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC32592A-49E1-4129-9DAE-4C761FCB2978}|AlbumInventoryClient\\AlbumInventoryClient.csproj|c:\\users\\jenny\\onedrive\\desktop\\dev 422\\diepmidterm\\dev422_fall_2025_midterm\\albuminventoryclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC32592A-49E1-4129-9DAE-4C761FCB2978}|AlbumInventoryClient\\AlbumInventoryClient.csproj|solutionrelative:albuminventoryclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC32592A-49E1-4129-9DAE-4C761FCB2978}|AlbumInventoryClient\\AlbumInventoryClient.csproj|C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\albuminventoryclient\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC32592A-49E1-4129-9DAE-4C761FCB2978}|AlbumInventoryClient\\AlbumInventoryClient.csproj|solutionrelative:albuminventoryclient\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC32592A-49E1-4129-9DAE-4C761FCB2978}|AlbumInventoryClient\\AlbumInventoryClient.csproj|C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\albuminventoryclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC32592A-49E1-4129-9DAE-4C761FCB2978}|AlbumInventoryClient\\AlbumInventoryClient.csproj|solutionrelative:albuminventoryclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D2AC3F-99E0-43DF-BBBA-8DC997151F0A}|CollabPlaylist\\CollabPlaylist.csproj|C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\collabplaylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78D2AC3F-99E0-43DF-BBBA-8DC997151F0A}|CollabPlaylist\\CollabPlaylist.csproj|solutionrelative:collabplaylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,32 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\AlbumInventoryClient\\MainForm.cs",
+              "RelativeDocumentMoniker": "AlbumInventoryClient\\MainForm.cs",
+              "ToolTip": "C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\AlbumInventoryClient\\MainForm.cs [Design]",
+              "RelativeToolTip": "AlbumInventoryClient\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T18:28:39.648Z",
+              "EditorCaption": " [Design]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\AlbumInventoryClient\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "AlbumInventoryClient\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\AlbumInventoryClient\\MainForm.Designer.cs",
+              "RelativeToolTip": "AlbumInventoryClient\\MainForm.Designer.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAAAGoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T18:26:26.677Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Viktoriya\\Desktop\\New folder\\CollabPlaylist\\Program.cs",
-              "RelativeDocumentMoniker": "CollabPlaylist\\Program.cs",
-              "ToolTip": "C:\\Users\\Viktoriya\\Desktop\\New folder\\CollabPlaylist\\Program.cs",
-              "RelativeToolTip": "CollabPlaylist\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\AlbumInventoryClient\\MainForm.cs",
+              "RelativeDocumentMoniker": "AlbumInventoryClient\\MainForm.cs",
+              "ToolTip": "C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\AlbumInventoryClient\\MainForm.cs",
+              "RelativeToolTip": "AlbumInventoryClient\\MainForm.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAJ0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T00:32:22.985Z",
+              "WhenOpened": "2025-11-16T18:16:50.089Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\CollabPlaylist\\Program.cs",
+              "RelativeDocumentMoniker": "CollabPlaylist\\Program.cs",
+              "ToolTip": "C:\\Users\\jenny\\OneDrive\\Desktop\\Dev 422\\DiepMidterm\\dev422_fall_2025_midterm\\CollabPlaylist\\Program.cs",
+              "RelativeToolTip": "CollabPlaylist\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:32:22.985Z"
             }
           ]
         }
