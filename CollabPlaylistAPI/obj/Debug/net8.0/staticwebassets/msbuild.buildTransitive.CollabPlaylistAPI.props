@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CollabPlaylistAPI.props" />
+</Project>

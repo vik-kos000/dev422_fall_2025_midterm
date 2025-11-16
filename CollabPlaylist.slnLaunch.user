@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CollabPlaylist\\CollabPlaylist.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CollabPlaylistAPI\\CollabPlaylistAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AlbumInventoryServer\\AlbumInventoryServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AlbumInventoryClient\\AlbumInventoryClient.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MusicAlbumManagement\\MusicAlbumManagement.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MusicRentalGUI\\MusicRentalGUI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "RentalService\\RentalService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,204 @@
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.exe
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.deps.json
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.runtimeconfig.json
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.dll
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.pdb
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.csproj.AssemblyReference.cache
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.AssemblyInfoInputs.cache
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.AssemblyInfo.cs
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.csproj.CoreCompileInputs.cache
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets\msbuild.CollabPlaylistAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CollabPlaylistAPI.props
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CollabPlaylistAPI.props
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CollabPlaylistAPI.props
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\scopedcss\bundle\CollabPlaylistAPI.styles.css
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.csproj.CopyComplete
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.dll
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\refint\CollabPlaylistAPI.dll
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.pdb
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.genruntimeconfig.cache
+C:\Users\23ano\DEV422\MidtermProject\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\ref\CollabPlaylistAPI.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.staticwebassets.endpoints.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.exe
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.deps.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.runtimeconfig.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.csproj.AssemblyReference.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.AssemblyInfoInputs.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.AssemblyInfo.cs
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.csproj.CoreCompileInputs.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.sourcelink.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\scopedcss\bundle\CollabPlaylistAPI.styles.css
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets\msbuild.CollabPlaylistAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets\msbuild.CollabPlaylistAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CollabPlaylistAPI.props
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CollabPlaylistAPI.props
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CollabPlaylistAPI.props
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPl.03D3A587.Up2Date
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\refint\CollabPlaylistAPI.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.genruntimeconfig.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\ref\CollabPlaylistAPI.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.staticwebassets.endpoints.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.exe
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.deps.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.runtimeconfig.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.pdb
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.csproj.AssemblyReference.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.AssemblyInfoInputs.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.AssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.sourcelink.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\scopedcss\bundle\CollabPlaylistAPI.styles.css
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPl.03D3A587.Up2Date
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\refint\CollabPlaylistAPI.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.pdb
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.genruntimeconfig.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\ref\CollabPlaylistAPI.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.staticwebassets.endpoints.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.exe
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.deps.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.runtimeconfig.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.pdb
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.csproj.AssemblyReference.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.AssemblyInfoInputs.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.AssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.sourcelink.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\scopedcss\bundle\CollabPlaylistAPI.styles.css
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPl.03D3A587.Up2Date
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\refint\CollabPlaylistAPI.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.pdb
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.genruntimeconfig.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\CollabPlaylistAPI\obj\Debug\net8.0\ref\CollabPlaylistAPI.dll
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.staticwebassets.endpoints.json
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.exe
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.deps.json
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.runtimeconfig.json
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.dll
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\CollabPlaylistAPI.pdb
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.csproj.AssemblyReference.cache
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.AssemblyInfoInputs.cache
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.AssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\scopedcss\bundle\CollabPlaylistAPI.styles.css
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\CollabPl.03D3A587.Up2Date
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.dll
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\refint\CollabPlaylistAPI.dll
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.pdb
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\CollabPlaylistAPI.genruntimeconfig.cache
+C:\Users\Viktoriya\Desktop\New folder\CollabPlaylistAPI\obj\Debug\net8.0\ref\CollabPlaylistAPI.dll

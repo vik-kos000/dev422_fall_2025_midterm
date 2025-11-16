@@ -1,0 +1,2 @@
+obj\Debug\Protos/AlbumService.cs \
+obj\Debug\Protos/AlbumServiceGrpc.cs: Protos/album_service.proto

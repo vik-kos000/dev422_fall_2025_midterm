@@ -1,0 +1,106 @@
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\bin\Debug\net8.0\appsettings.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.staticwebassets.endpoints.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.exe
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.deps.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.runtimeconfig.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.pdb
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.csproj.AssemblyReference.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.AssemblyInfoInputs.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.AssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\scopedcss\bundle\MusicAlbumManagement.styles.css
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\MusicAlb.2C0C097B.Up2Date
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\refint\MusicAlbumManagement.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.pdb
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.genruntimeconfig.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\MusicAlbumManagement\obj\Debug\net8.0\ref\MusicAlbumManagement.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\bin\Debug\net8.0\appsettings.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.staticwebassets.endpoints.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.exe
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.deps.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.runtimeconfig.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.pdb
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.csproj.AssemblyReference.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.AssemblyInfoInputs.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.AssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.sourcelink.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\scopedcss\bundle\MusicAlbumManagement.styles.css
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\MusicAlb.2C0C097B.Up2Date
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\refint\MusicAlbumManagement.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.pdb
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.genruntimeconfig.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\MusicAlbumManagement\obj\Debug\net8.0\ref\MusicAlbumManagement.dll
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\bin\Debug\net8.0\appsettings.json
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.staticwebassets.endpoints.json
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.exe
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.deps.json
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.runtimeconfig.json
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.dll
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\bin\Debug\net8.0\MusicAlbumManagement.pdb
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.csproj.AssemblyReference.cache
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.AssemblyInfoInputs.cache
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.AssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\scopedcss\bundle\MusicAlbumManagement.styles.css
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\MusicAlb.2C0C097B.Up2Date
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.dll
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\refint\MusicAlbumManagement.dll
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.pdb
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\MusicAlbumManagement.genruntimeconfig.cache
+C:\Users\Viktoriya\Desktop\New folder\MusicAlbumManagement\obj\Debug\net8.0\ref\MusicAlbumManagement.dll

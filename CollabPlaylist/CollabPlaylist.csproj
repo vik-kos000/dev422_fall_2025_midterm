@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{78D2AC3F-99E0-43DF-BBBA-8DC997151F0A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CollabPlaylist</RootNamespace>
+    <AssemblyName>CollabPlaylist</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddSong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSong.Designer.cs">
+      <DependentUpon>AddSong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddSongCommand.cs" />
+    <Compile Include="CollaborativePlaylist.cs" />
+    <Compile Include="CreatePlaylist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreatePlaylist.Designer.cs">
+      <DependentUpon>CreatePlaylist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2_PlaylistBuilder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2_PlaylistBuilder.Designer.cs">
+      <DependentUpon>Form2_PlaylistBuilder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ICommand.cs" />
+    <Compile Include="InviteCollaborator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InviteCollaborator.Designer.cs">
+      <DependentUpon>InviteCollaborator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Playlist.cs" />
+    <Compile Include="PlaylistController.cs" />
+    <Compile Include="PlaylistService.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rankings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rankings.Designer.cs">
+      <DependentUpon>Rankings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Song.cs" />
+    <Compile Include="VoteSongCommand.cs" />
+    <Compile Include="Voting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Voting.Designer.cs">
+      <DependentUpon>Voting.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddSong.resx">
+      <DependentUpon>AddSong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreatePlaylist.resx">
+      <DependentUpon>CreatePlaylist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2_PlaylistBuilder.resx">
+      <DependentUpon>Form2_PlaylistBuilder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InviteCollaborator.resx">
+      <DependentUpon>InviteCollaborator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Rankings.resx">
+      <DependentUpon>Rankings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Voting.resx">
+      <DependentUpon>Voting.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AlbumInventoryClient\AlbumInventoryClient.csproj">
+      <Project>{cc32592a-49e1-4129-9dae-4c761fcb2978}</Project>
+      <Name>AlbumInventoryClient</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MusicRentalGUI\MusicRentalGUI.csproj">
+      <Project>{bded14e0-12d5-47ed-8388-eccdc6a02e0c}</Project>
+      <Name>MusicRentalGUI</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

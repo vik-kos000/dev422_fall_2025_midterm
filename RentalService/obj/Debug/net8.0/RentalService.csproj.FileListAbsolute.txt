@@ -1,0 +1,106 @@
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\bin\Debug\net8.0\appsettings.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\bin\Debug\net8.0\RentalService.staticwebassets.endpoints.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\bin\Debug\net8.0\RentalService.exe
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\bin\Debug\net8.0\RentalService.deps.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\bin\Debug\net8.0\RentalService.runtimeconfig.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\bin\Debug\net8.0\RentalService.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\bin\Debug\net8.0\RentalService.pdb
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\RentalService.csproj.AssemblyReference.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\RentalService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\RentalService.AssemblyInfoInputs.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\RentalService.AssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\RentalService.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\RentalService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\RentalService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\scopedcss\bundle\RentalService.styles.css
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\RentalSe.B44859EE.Up2Date
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\RentalService.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\refint\RentalService.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\RentalService.pdb
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\RentalService.genruntimeconfig.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\MusicRentalManagement.sol\RentalService\obj\Debug\net8.0\ref\RentalService.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\bin\Debug\net8.0\appsettings.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\bin\Debug\net8.0\RentalService.staticwebassets.endpoints.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\bin\Debug\net8.0\RentalService.exe
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\bin\Debug\net8.0\RentalService.deps.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\bin\Debug\net8.0\RentalService.runtimeconfig.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\bin\Debug\net8.0\RentalService.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\bin\Debug\net8.0\RentalService.pdb
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\RentalService.csproj.AssemblyReference.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\RentalService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\RentalService.AssemblyInfoInputs.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\RentalService.AssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\RentalService.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\RentalService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\RentalService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\RentalService.sourcelink.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\scopedcss\bundle\RentalService.styles.css
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\RentalSe.B44859EE.Up2Date
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\RentalService.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\refint\RentalService.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\RentalService.pdb
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\RentalService.genruntimeconfig.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\RentalService\obj\Debug\net8.0\ref\RentalService.dll
+C:\Users\Viktoriya\Desktop\New folder\RentalService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Viktoriya\Desktop\New folder\RentalService\bin\Debug\net8.0\appsettings.json
+C:\Users\Viktoriya\Desktop\New folder\RentalService\bin\Debug\net8.0\RentalService.staticwebassets.endpoints.json
+C:\Users\Viktoriya\Desktop\New folder\RentalService\bin\Debug\net8.0\RentalService.exe
+C:\Users\Viktoriya\Desktop\New folder\RentalService\bin\Debug\net8.0\RentalService.deps.json
+C:\Users\Viktoriya\Desktop\New folder\RentalService\bin\Debug\net8.0\RentalService.runtimeconfig.json
+C:\Users\Viktoriya\Desktop\New folder\RentalService\bin\Debug\net8.0\RentalService.dll
+C:\Users\Viktoriya\Desktop\New folder\RentalService\bin\Debug\net8.0\RentalService.pdb
+C:\Users\Viktoriya\Desktop\New folder\RentalService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Viktoriya\Desktop\New folder\RentalService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Viktoriya\Desktop\New folder\RentalService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Viktoriya\Desktop\New folder\RentalService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\RentalService.csproj.AssemblyReference.cache
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\RentalService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\RentalService.AssemblyInfoInputs.cache
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\RentalService.AssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\RentalService.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\RentalService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\RentalService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\scopedcss\bundle\RentalService.styles.css
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\RentalSe.B44859EE.Up2Date
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\RentalService.dll
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\refint\RentalService.dll
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\RentalService.pdb
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\RentalService.genruntimeconfig.cache
+C:\Users\Viktoriya\Desktop\New folder\RentalService\obj\Debug\net8.0\ref\RentalService.dll

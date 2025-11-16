@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NEBZg1uBcyWeyD2mxu4LOYLyFUQqaXvp2RV1ccXv/Yo=",
+  "Source": "AlbumInventoryServer",
+  "BasePath": "_content/AlbumInventoryServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

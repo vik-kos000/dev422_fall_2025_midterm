@@ -1,0 +1,180 @@
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.staticwebassets.endpoints.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.exe
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.deps.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.runtimeconfig.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.csproj.AssemblyReference.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.AssemblyInfoInputs.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.AssemblyInfo.cs
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.csproj.CoreCompileInputs.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\scopedcss\bundle\AlbumInventoryServer.styles.css
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets\msbuild.AlbumInventoryServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets\msbuild.AlbumInventoryServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets\msbuild.build.AlbumInventoryServer.props
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlbumInventoryServer.props
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlbumInventoryServer.props
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\AlbumInv.3692CE92.Up2Date
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\refint\AlbumInventoryServer.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.genruntimeconfig.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\AlbumInventorySystem\AlbumInventoryServer\obj\Debug\net8.0\ref\AlbumInventoryServer.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.staticwebassets.endpoints.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.exe
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.deps.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.runtimeconfig.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.csproj.AssemblyReference.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.AssemblyInfoInputs.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.AssemblyInfo.cs
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.csproj.CoreCompileInputs.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.sourcelink.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\scopedcss\bundle\AlbumInventoryServer.styles.css
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets\msbuild.AlbumInventoryServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets\msbuild.AlbumInventoryServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets\msbuild.build.AlbumInventoryServer.props
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlbumInventoryServer.props
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlbumInventoryServer.props
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInv.3692CE92.Up2Date
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\refint\AlbumInventoryServer.dll
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.pdb
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.genruntimeconfig.cache
+C:\Users\jenny\OneDrive\Desktop\Dev 422\midterm\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\ref\AlbumInventoryServer.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.staticwebassets.endpoints.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.exe
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.deps.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.runtimeconfig.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.pdb
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.csproj.AssemblyReference.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.AssemblyInfoInputs.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.AssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.sourcelink.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\scopedcss\bundle\AlbumInventoryServer.styles.css
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInv.3692CE92.Up2Date
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\refint\AlbumInventoryServer.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.pdb
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.genruntimeconfig.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\midterm project\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\ref\AlbumInventoryServer.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.staticwebassets.endpoints.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.exe
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.deps.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.runtimeconfig.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.pdb
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.csproj.AssemblyReference.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.AssemblyInfoInputs.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.AssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.sourcelink.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\scopedcss\bundle\AlbumInventoryServer.styles.css
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInv.3692CE92.Up2Date
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\refint\AlbumInventoryServer.dll
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.pdb
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.genruntimeconfig.cache
+C:\Users\Viktoriya\Desktop\vika\school\DEV422\dev422_fall_2025\CollabPlaylist\AlbumInventoryServer\obj\Debug\net8.0\ref\AlbumInventoryServer.dll
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.staticwebassets.endpoints.json
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.exe
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.deps.json
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.runtimeconfig.json
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.dll
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\bin\Debug\net8.0\AlbumInventoryServer.pdb
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.csproj.AssemblyReference.cache
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.AssemblyInfoInputs.cache
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.AssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\scopedcss\bundle\AlbumInventoryServer.styles.css
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\AlbumInv.3692CE92.Up2Date
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.dll
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\refint\AlbumInventoryServer.dll
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.pdb
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\AlbumInventoryServer.genruntimeconfig.cache
+C:\Users\Viktoriya\Desktop\New folder\AlbumInventoryServer\obj\Debug\net8.0\ref\AlbumInventoryServer.dll
